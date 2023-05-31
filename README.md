@@ -4,7 +4,7 @@ Houses all written Jupyter Notebooks and course-provided codes in the DataQuest 
 ### Part 1: Python Introduction
 - Introduction to Python Programming ✅
 - For Loops and Conditional Statements in Python ✅
-- Dictionaries, Frequency Tables, and Functions in Python
+- Dictionaries, Frequency Tables, and Functions in Python ✅
 - Python Functions and Jupyter Notebook
 - Intermediate Python for Data Science
 - Guided Projects:
