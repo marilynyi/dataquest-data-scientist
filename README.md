@@ -1,16 +1,16 @@
 # dataquest-guided-projects
-Houses all written Jupyter Notebooks and course-provided codes in the DataQuest - Data Scientist learning path
+Houses all guided projects written in Jupyter Notebooks along with course-provided data files for the Dataquest - Data Scientist learning path
 
 ### Part 1: Python Introduction
 - Introduction to Python Programming ✅
 - For Loops and Conditional Statements in Python ✅
 - Dictionaries, Frequency Tables, and Functions in Python ✅
 - Python Functions and Jupyter Notebook ✅
-- Intermediate Python for Data Science
+- Intermediate Python for Data Science ✅
 - Guided Projects:
   - [Prison Break](https://github.com/iy-m/dataquest-guided-projects/tree/main/01_prison_break) ✅
-  - [Profitable App Profiles for the App Store and Google Play Markets](http://localhost:8888/notebooks/Google%20Drive/My%20Drive/Python/dataquest/guided-projects/02_mobile_app_data/mobile_app_data.ipynb) ✅
-  - Exploring Hacker News Posts
+  - [Profitable App Profiles for the App Store and Google Play Markets](https://github.com/iy-m/dataquest-data-scientist/tree/main/02_mobile_app_data) ✅
+  - [Exploring Hacker News Posts](https://github.com/iy-m/dataquest-data-scientist/tree/main/03_exploring_hacker_news_posts) ✅
 
 ### Part 2: Data Analysis and Visualization
 - Introduction to Pandas and NumPy for Data Analysis
