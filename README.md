@@ -1,19 +1,19 @@
 # dataquest-guided-projects
 Houses all guided projects written in Jupyter Notebooks along with course-provided data files for the Dataquest - Data Scientist learning path
 
-### Part 1: Python Introduction
-- Introduction to Python Programming ✅
-- For Loops and Conditional Statements in Python ✅
-- Dictionaries, Frequency Tables, and Functions in Python ✅
-- Python Functions and Jupyter Notebook ✅
-- Intermediate Python for Data Science ✅
+### Part 1: Python Introduction ✅
+- Introduction to Python Programming 
+- For Loops and Conditional Statements in Python 
+- Dictionaries, Frequency Tables, and Functions in Python 
+- Python Functions and Jupyter Notebook 
+- Intermediate Python for Data Science 
 - Guided Projects:
-  - [Prison Break](https://github.com/iy-m/dataquest-guided-projects/tree/main/01_prison_break) ✅
-  - [Profitable App Profiles for the App Store and Google Play Markets](https://github.com/iy-m/dataquest-data-scientist/tree/main/02_mobile_app_data) ✅
-  - [Exploring Hacker News Posts](https://github.com/iy-m/dataquest-data-scientist/tree/main/03_exploring_hacker_news_posts) ✅
+  - [Prison Break](https://github.com/iy-m/dataquest-guided-projects/tree/main/01_prison_break) 
+  - [Profitable App Profiles for the App Store and Google Play Markets](https://github.com/iy-m/dataquest-data-scientist/tree/main/02_mobile_app_data) 
+  - [Exploring Hacker News Posts](https://github.com/iy-m/dataquest-data-scientist/tree/main/03_exploring_hacker_news_posts) 
 
 ### Part 2: Data Analysis and Visualization
-- Introduction to Pandas and NumPy for Data Analysis
+- Introduction to Pandas and NumPy for Data Analysis ⬅️
 - Introduction to Data Visualization in Python
 - Telling Stories Using Data Visualization and Information Design
 - Guided Projects:
