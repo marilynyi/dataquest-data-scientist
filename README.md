@@ -13,11 +13,11 @@ Houses all guided projects written in Jupyter Notebooks along with course-provid
   - [Exploring Hacker News Posts](https://github.com/iy-m/dataquest-data-scientist/tree/main/03_exploring_hacker_news_posts) 
 
 ### Part 2: Data Analysis and Visualization 
-- Introduction to Pandas and NumPy for Data Analysis ⬅️
-- Introduction to Data Visualization in Python
+- Introduction to Pandas and NumPy for Data Analysis ✅
+- Introduction to Data Visualization in Python ⬅️
 - Telling Stories Using Data Visualization and Information Design
 - Guided Projects:
-  - Exploring eBay Car Sales Data
+  - [Exploring eBay Car Sales Data](https://github.com/iy-m/dataquest-guided-projects/tree/main/04_exploring_ebay_car_sales)
   - Finding Heavy Traffic Indicators on I-94
   - Storytelling Data Visualization on Exchange Rates
 
