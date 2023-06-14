@@ -40,7 +40,7 @@ Houses all guided projects written in Jupyter Notebooks along with course-provid
 - Introduction to APIs and Web Scraping in Python ✅
 - Data Analysis for Business in Python
 - Guided Projects:
-  - Analyzing CIA Factbook Data Using SQL
+  - [Analyzing CIA Factbook Data Using SQL](https://github.com/iy-m/dataquest-data-scientist/tree/main/10_analyzing_cia_factbook_data_using_sql) 
   - Answering Business Questions Using SQL
   - Popular Data Science Questions
 
