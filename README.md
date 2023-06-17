@@ -18,7 +18,7 @@ Houses all guided projects written in Jupyter Notebooks along with course-provid
 - Telling Stories Using Data Visualization and Information Design
 - Guided Projects:
   - [Exploring eBay Car Sales Data](https://github.com/iy-m/dataquest-guided-projects/tree/main/04_exploring_ebay_car_sales)
-  - Finding Heavy Traffic Indicators on I-94
+  - [Finding Heavy Traffic Indicators on I-94](https://github.com/iy-m/dataquest-guided-projects/tree/main/05_finding_heavy_traffic_indicators_on_i94w)
   - Storytelling Data Visualization on Exchange Rates
 
 ### Part 3: Data Cleaning
