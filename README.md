@@ -1,4 +1,4 @@
-# dataquest-guided-projects
+# dataquest-data-scientist
 Houses all guided projects written in Jupyter Notebooks along with course-provided data files for the Dataquest - Data Scientist learning path
 
 ### Part 1: Python Introduction ✅
@@ -8,18 +8,18 @@ Houses all guided projects written in Jupyter Notebooks along with course-provid
 - Python Functions and Jupyter Notebook 
 - Intermediate Python for Data Science 
 - Guided Projects:
-  - [Prison Break](https://github.com/iy-m/dataquest-guided-projects/tree/main/01_prison_break) 
-  - [Profitable App Profiles for the App Store and Google Play Markets](https://github.com/iy-m/dataquest-data-scientist/tree/main/02_mobile_app_data) 
-  - [Exploring Hacker News Posts](https://github.com/iy-m/dataquest-data-scientist/tree/main/03_exploring_hacker_news_posts) 
+  - [Prison Break](https://github.com/marilynyi/dataquest-data-scientist/tree/main/01_prison_break) 
+  - [Profitable App Profiles for the App Store and Google Play Markets](https://github.com/marilynyi/dataquest-data-scientist/tree/main/02_mobile_app_data) 
+  - [Exploring Hacker News Posts](https://github.com/marilynyi/dataquest-data-scientist/tree/main/03_exploring_hacker_news_posts) 
 
 ### Part 2: Data Analysis and Visualization ✅
 - Introduction to Pandas and NumPy for Data Analysis 
 - Introduction to Data Visualization in Python 
 - Telling Stories Using Data Visualization and Information Design
 - Guided Projects:
-  - [Exploring eBay Car Sales Data](https://github.com/iy-m/dataquest-guided-projects/tree/main/04_exploring_ebay_car_sales)
-  - [Finding Heavy Traffic Indicators on I-94](https://github.com/iy-m/dataquest-guided-projects/tree/main/05_finding_heavy_traffic_indicators_on_i94w)
-  - [Storytelling Data Visualization on Exchange Rates](https://github.com/iy-m/dataquest-guided-projects/tree/main/06_storytelling_data_visualization_on_exchange_rates)
+  - [Exploring eBay Car Sales Data](https://github.com/marilynyi/dataquest-data-scientist/tree/main/04_exploring_ebay_car_sales)
+  - [Finding Heavy Traffic Indicators on I-94](https://github.com/marilynyi/dataquest-data-scientist/tree/main/05_finding_heavy_traffic_indicators_on_i94w)
+  - [Storytelling Data Visualization on Exchange Rates](https://github.com/marilynyi/dataquest-data-scientist/tree/main/06_storytelling_data_visualization_on_exchange_rates)
 
 ### Part 3: Data Cleaning ⬅️
 - Data Cleaning and Analysis in Python
@@ -35,12 +35,12 @@ Houses all guided projects written in Jupyter Notebooks along with course-provid
 - Text Processing for Data Science
 
 ### Part 5: Working with Data Sources
-- SQL Fundamentals ⬅️
+- SQL Fundamentals ✅
 - Intermediate SQL for Data Analysis
 - Introduction to APIs and Web Scraping in Python ✅
 - Data Analysis for Business in Python
 - Guided Projects:
-  - [Analyzing CIA Factbook Data Using SQL](https://github.com/iy-m/dataquest-data-scientist/tree/main/10_analyzing_cia_factbook_data_using_sql) 
+  - [Analyzing CIA Factbook Data Using SQL](https://github.com/marilynyi/dataquest-data-scientist/tree/main/10_analyzing_cia_factbook_data_using_sql) 
   - Answering Business Questions Using SQL
   - Popular Data Science Questions
 
