@@ -26,7 +26,7 @@ Houses all guided projects written in Jupyter Notebooks along with course-provid
 - Advanced Data Cleaning in Python
 - Data Cleaning Project Walkthrough
 - Guided Projects:
-  - Clean and Analyze Employee Exit Surveys
+  - [Clean and Analyze Employee Exit Surveys](https://github.com/marilynyi/dataquest-data-scientist/tree/main/07_clean_and_analyze_employee_exit_surveys)
   - Analyzing NYC High School Data
   - Star Wars Survey
 
