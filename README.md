@@ -27,7 +27,7 @@ Houses all guided projects written in Jupyter Notebooks along with course-provid
 - Data Cleaning Project Walkthrough
 - Guided Projects:
   - [Clean and Analyze Employee Exit Surveys](https://github.com/marilynyi/dataquest-data-scientist/tree/main/07_clean_and_analyze_employee_exit_surveys)
-  - Analyzing NYC High School Data
+  - [Analyzing NYC High School Data](https://github.com/marilynyi/dataquest-data-scientist/tree/main/08_analyzing_nyc_high_school_data)
   - Star Wars Survey
 
 ### Part 4: The Command Line
