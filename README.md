@@ -28,7 +28,7 @@ Houses all guided projects written in Jupyter Notebooks along with course-provid
 - Guided Projects:
   - [Clean and Analyze Employee Exit Surveys](https://github.com/marilynyi/dataquest-data-scientist/tree/main/07_clean_and_analyze_employee_exit_surveys)
   - [Analyzing NYC High School Data](https://github.com/marilynyi/dataquest-data-scientist/tree/main/08_analyzing_nyc_high_school_data)
-  - [Exploring FiveThirtyEight's Star Wars Survey](https://github.com/marilynyi/dataquest-data-scientist/tree/main/09_exploring_fivethirtyeight_star_wars_survey)
+  - [Exploring FiveThirtyEight's Star Wars Survey](https://github.com/marilynyi/dataquest-data-scientist/tree/main/09_exploring_star_wars_survey)
 
 ### Part 4: The Command Line ⬅️
 - Introduction to the Command Line
