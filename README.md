@@ -21,16 +21,16 @@ Houses all guided projects written in Jupyter Notebooks along with course-provid
   - [Finding Heavy Traffic Indicators on I-94](https://github.com/marilynyi/dataquest-data-scientist/tree/main/05_finding_heavy_traffic_indicators_on_i94w)
   - [Storytelling Data Visualization on Exchange Rates](https://github.com/marilynyi/dataquest-data-scientist/tree/main/06_storytelling_data_visualization_on_exchange_rates)
 
-### Part 3: Data Cleaning ⬅️
+### Part 3: Data Cleaning ✅
 - Data Cleaning and Analysis in Python
 - Advanced Data Cleaning in Python
 - Data Cleaning Project Walkthrough
 - Guided Projects:
   - [Clean and Analyze Employee Exit Surveys](https://github.com/marilynyi/dataquest-data-scientist/tree/main/07_clean_and_analyze_employee_exit_surveys)
   - [Analyzing NYC High School Data](https://github.com/marilynyi/dataquest-data-scientist/tree/main/08_analyzing_nyc_high_school_data)
-  - Star Wars Survey
+  - [Exploring FiveThirtyEight's Star Wars Survey](https://github.com/marilynyi/dataquest-data-scientist/tree/main/09_exploring_fivethirtyeight_star_wars_survey)
 
-### Part 4: The Command Line
+### Part 4: The Command Line ⬅️
 - Introduction to the Command Line
 - Text Processing for Data Science
 
