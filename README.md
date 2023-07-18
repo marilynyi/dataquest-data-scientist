@@ -30,7 +30,7 @@ Houses all guided projects written in Jupyter Notebooks along with course-provid
   - [Analyzing NYC High School Data](https://github.com/marilynyi/dataquest-data-scientist/tree/main/08_analyzing_nyc_high_school_data)
   - [Exploring FiveThirtyEight's Star Wars Survey](https://github.com/marilynyi/dataquest-data-scientist/tree/main/09_exploring_star_wars_survey)
 
-### Part 4: The Command Line ⬅️
+### Part 4: The Command Line ✅
 - Introduction to the Command Line
 - Text Processing for Data Science
 
@@ -45,7 +45,7 @@ Houses all guided projects written in Jupyter Notebooks along with course-provid
   - Popular Data Science Questions
 
 ### Part 6: Probability and Statistics
-- Introduction to Statistics in Python
+- Introduction to Statistics in Python ⬅️
 - Intermediate Statistics in Python
 - Introduction to Probability in Python
 - Introduction to Conditional Probability in Python
