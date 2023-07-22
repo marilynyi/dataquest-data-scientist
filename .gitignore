@@ -2,3 +2,4 @@ __pycache__/
 *.DS_Store
 template*/
 *.ipynb_checkpoints/
+00_takeaways/
