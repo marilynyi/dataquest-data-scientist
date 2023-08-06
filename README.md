@@ -46,13 +46,13 @@ Houses all guided projects written in Jupyter Notebooks along with course-provid
 
 ### Part 6: Probability and Statistics
 - Introduction to Statistics in Python ✅
-- Intermediate Statistics in Python ⬅️
-- Introduction to Probability in Python
+- Intermediate Statistics in Python ✅
+- Introduction to Probability in Python ⬅️
 - Introduction to Conditional Probability in Python
 - Hypothesis Testing in Python
 - Guided Projects: 
   - [Investigating Fandango Movie Ratings](https://github.com/marilynyi/dataquest-data-scientist/tree/main/13_investigating_new_movie_ratings)
-  - Finding the Best Markets to Advertise In
+  - [Finding the Best Markets to Advertise In](https://github.com/marilynyi/dataquest-data-scientist/tree/main/14_finding_the_best_markets_to_advertise_in)
   - Mobile App for Lottery Addiction
   - Building a Spam Filter with Naive Bayes
   - Winning Jeopardy
