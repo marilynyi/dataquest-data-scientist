@@ -62,7 +62,7 @@ Houses all guided projects written in Jupyter Notebooks along with course-provid
 - Introduction to Unsupervised Machine Learning in Python
 - Calculus for Machine Learning
 - Linear Algebra for Machine Learning
-- Linear Regression Modleing in Python
+- Linear Regression Modeling in Python
 - Gradient Descent Modeling in Python
 - Logistic Regression Modeling in Python
 - Decision Tree and Random Forest Modeling in Python
