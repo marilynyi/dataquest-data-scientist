@@ -48,8 +48,8 @@ Houses all guided projects written in Jupyter Notebooks along with course-provid
 - Introduction to Statistics in Python ✅
 - Intermediate Statistics in Python ✅
 - Introduction to Probability in Python ✅
-- Introduction to Conditional Probability in Python ⬅️
-- Hypothesis Testing in Python
+- Introduction to Conditional Probability in Python ✅
+- Hypothesis Testing in Python ⬅️
 - Guided Projects: 
   - [Investigating Fandango Movie Ratings](https://github.com/marilynyi/dataquest-data-scientist/tree/main/13_investigating_new_movie_ratings)
   - [Finding the Best Markets to Advertise In](https://github.com/marilynyi/dataquest-data-scientist/tree/main/14_finding_the_best_markets_to_advertise_in)
@@ -58,7 +58,7 @@ Houses all guided projects written in Jupyter Notebooks along with course-provid
   - Winning Jeopardy
 
 ### Part 7: Machine Learning in Python
-- Introduction to Supervised Machine Learning in Python
+- Introduction to Supervised Machine Learning in Python ⬅️
 - Introduction to Unsupervised Machine Learning in Python
 - Calculus for Machine Learning
 - Linear Algebra for Machine Learning
@@ -68,7 +68,7 @@ Houses all guided projects written in Jupyter Notebooks along with course-provid
 - Decision Tree and Random Forest Modeling in Python
 - Optimizing Machine Learning Models in Python
 - Guided Projects:
-  - Predicting Heart Disease
+  - Predicting Heart Disease ⬅️
   - Credit Card Customer Segmentation
   - Predicting Insurance Costs
   - Stochastic Gradient Descent on Linear Regression
