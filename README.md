@@ -60,8 +60,8 @@ Houses all guided projects written in Jupyter Notebooks along with course-provid
 ### Part 7: Machine Learning in Python
 - Introduction to Supervised Machine Learning in Python ⬅️
 - Introduction to Unsupervised Machine Learning in Python
-- Calculus for Machine Learning
-- Linear Algebra for Machine Learning
+- Calculus for Machine Learning ✅
+- Linear Algebra for Machine Learning ✅
 - Linear Regression Modeling in Python
 - Gradient Descent Modeling in Python
 - Logistic Regression Modeling in Python
